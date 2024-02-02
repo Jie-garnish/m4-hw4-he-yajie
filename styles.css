@@ -1,3 +1,37 @@
 body {
     font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-color:beige;
+    color:darkslategrey;
+    max-width: 900px;
+    margin:auto;
+}
+h1,h2 {
+    text-align: center;
+    color:saddlebrown;
+}
+nav{
+    text-align: center;
+}
+img {
+    display: block;
+    margin: auto;
+}
+figcaption.caption{
+    font-weight: bold;
+    text-align:center;
+    color:black
+    
+}
+div.link{
+    font-weight: bold;
+}
+header > h1 {
+    background-color:rgb(224, 214, 192);
+}
+footer {
+    margin: 50px 0;
+    text-align:center;
 }
